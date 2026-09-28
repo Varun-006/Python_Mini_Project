@@ -1,0 +1,18 @@
+{
+    "595131": {
+        "account_number": "595131",
+        "name": "Varuna",
+        "phone": "1234567890",
+        "pin": "2222",
+        "balance": 100.0,
+        "transactions": [
+            {
+                "timestamp": "2026-09-28 19:27:41",
+                "type": "Deposit",
+                "amount": 100.0,
+                "balance_after": 100.0,
+                "details": "Initial account opening deposit"
+            }
+        ]
+    }
+}
